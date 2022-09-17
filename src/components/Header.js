@@ -27,7 +27,7 @@ const Header = () => {
                         
                     </UserLoginForm>
                     <NavItem>
-                        <NavLink className='nav-link' to='/'>
+                        <NavLink className='nav-link' to='/home'>
                             <i className='fa fa-home fa-lg' /> Home
                         </NavLink>
                     </NavItem>
