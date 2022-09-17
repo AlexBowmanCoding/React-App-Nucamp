@@ -27,7 +27,7 @@ const Header = () => {
                         
                     </UserLoginForm>
                     <NavItem>
-                        <NavLink className='nav-link' to='/home'>
+                        <NavLink className='nav-link' to='/React-App-Nucamp/'>
                             <i className='fa fa-home fa-lg' /> Home
                         </NavLink>
                     </NavItem>
