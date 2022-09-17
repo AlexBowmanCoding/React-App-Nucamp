@@ -24,7 +24,6 @@ const UserLoginForm = () => {
     const handleLogin= (values) => {
         const currentUser = {
             id: Date.now(),
-            avatar: defaultAvatar,
             username: values.username,
             password: values.password
         }
@@ -65,7 +64,6 @@ const UserLoginForm = () => {
                     onSubmit = {handleLogin}
                     validate = {validateUserLoginForm}
                     >
-                    
                         <Form>
                             <FormGroup>
                                 <Label htmlFor='username'>
