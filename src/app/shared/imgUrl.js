@@ -1,2 +1,2 @@
-export const imgUrl = '../assets/';
+export const imgUrl = 'http://localhost:3001/assets/';
 
