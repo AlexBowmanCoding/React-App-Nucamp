@@ -1,2 +1,2 @@
-export const imgUrl = './public/';
+export const imgUrl = '../assets/';
 
