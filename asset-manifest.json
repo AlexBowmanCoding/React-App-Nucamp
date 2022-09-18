@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-App-Nucamp/static/css/main.1e627b0d.css",
-    "main.js": "/React-App-Nucamp/static/js/main.626d528b.js",
+    "main.js": "/React-App-Nucamp/static/js/main.c07ff888.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/React-App-Nucamp/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/React-App-Nucamp/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/React-App-Nucamp/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
@@ -33,10 +33,10 @@
     "static/media/open-sans-latin-400italic.woff2": "/React-App-Nucamp/static/media/open-sans-latin-400italic.bb915319f59c02c348a6.woff2",
     "index.html": "/React-App-Nucamp/index.html",
     "main.1e627b0d.css.map": "/React-App-Nucamp/static/css/main.1e627b0d.css.map",
-    "main.626d528b.js.map": "/React-App-Nucamp/static/js/main.626d528b.js.map"
+    "main.c07ff888.js.map": "/React-App-Nucamp/static/js/main.c07ff888.js.map"
   },
   "entrypoints": [
     "static/css/main.1e627b0d.css",
-    "static/js/main.626d528b.js"
+    "static/js/main.c07ff888.js"
   ]
 }
