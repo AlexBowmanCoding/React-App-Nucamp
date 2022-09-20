@@ -30,10 +30,10 @@ function App() {
           <Header />
           <Routes>
               <Route path='/React-App-Nucamp' element={<HomePage />} />
-              <Route path='contact' element={<ContactPage />} />
-              <Route path='directory' element={<CampsitesDirectoryPage />} />
-              <Route path='directory/:campsiteId' element={<CampsiteDetailPage />}/>
-              <Route path='about'element={<AboutPage/>}/> 
+              <Route path='/React-App-Nucamp/contact' element={<ContactPage />} />
+              <Route path='/React-App-Nucamp/directory' element={<CampsitesDirectoryPage />} />
+              <Route path='/React-App-Nucamp/directory/:campsiteId' element={<CampsiteDetailPage />}/>
+              <Route path='/React-App-Nucamp/about'element={<AboutPage/>}/> 
           </Routes>
           <Footer />
       </div>
