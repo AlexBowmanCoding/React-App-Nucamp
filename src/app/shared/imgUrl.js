@@ -1,2 +1,2 @@
-export const imgUrl = 'http://localhost:3000/React-App-Nucamp/';
+export const imgUrl = ' https://alexbowmancoding.github.io/React-App-Nucamp/';
 
